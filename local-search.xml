@@ -8,7 +8,7 @@
     <link href="/2025/01/27/%E5%85%B3%E4%BA%8Evivobinder/"/>
     <url>/2025/01/27/%E5%85%B3%E4%BA%8Evivobinder/</url>
     
-    <content type="html"><![CDATA[<p>*vivo的Binder我猜测可能与内核相关，例如在5.4+可以使用V2+Binder，而在4.19.191我只能API+Binder，内核中没有关于Binder的判断，但也存在特殊情况部分5.10好像也无法正常使用V2+Binder，也只能使用API+Binder，顺带提一嘴vivo的Binder是和其他两家不一样的，通过监测文件的方式的，所以我建议使用VivoBinder，可能解决杀后台黑屏，打开应用白屏，后台的卡顿，内存使用紧张等一系列问题。目前想使用的话，建议使用墓碑Freezer或noactive，目前这两个支持。<br>*目前并没有大量的测试，具体还需要自己测试的，我也只测试了几部手机</p>]]></content>
+    <content type="html"><![CDATA[<ul><li>vivo的Binder我猜测可能与内核相关，例如在5.4+可以使用V2+Binder，而在4.19.191我只能API+Binder，内核中没有关于Binder的判断，但也存在特殊情况部分5.10好像也无法正常使用V2+Binder，也只能使用API+Binder，顺带提一嘴vivo的Binder是和其他两家不一样的，通过监测文件的方式的，所以我建议使用VivoBinder，可能解决杀后台黑屏，打开应用白屏，后台的卡顿，内存使用紧张等一系列问题。目前想使用的话，建议使用墓碑Freezer或noactive，目前这两个支持。</li><li>目前并没有大量的测试，具体还需要自己测试的，我也只测试了几部手机</li></ul>]]></content>
     
     
     
